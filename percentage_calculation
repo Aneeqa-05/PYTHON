@@ -1,0 +1,15 @@
+marks1=int(input("enter num : "))
+marks2=int(input("enter num : "))
+marks3=int(input("enter num : "))
+marks4=int(input("enter num : "))
+marks5=int(input("enter num : "))
+marks6=int(input("enter num : "))
+marks7=int(input("enter num : "))
+marks8=int(input("enter num : "))
+marks9=int(input("enter num : "))
+marks10=int(input("enter num : "))
+
+total=(marks1+marks2+marks3+marks4+marks5+marks6+marks7+marks8+marks9+marks10)/1000
+percentage=total*100
+print(percentage)
+
